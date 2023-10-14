@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Who Wants To Be a Millionaire</string>
+    <string name="background_image_for_splashscreen">background image for splashscreen</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="you_earned_0">You Earned : $ 0</string>
+    <string name="this_will_be_the_question">This will be the question</string>
+    <string name="ans_a">Ans A</string>
+    <string name="ans_b">Ans B</string>
+    <string name="ans_c">Ans C</string>
+    <string name="ans_d">Ans D</string>
+    <string name="you_earned">You Earned : $ 0</string>
+    <string name="this_will_be_the_questions">This will be the question</string>
+    <string name="ans_a1">Ans A</string>
+    <string name="ans_b2">Ans B</string>
+    <string name="ans_c3">Ans C</string>
+    <string name="ans_d4">Ans D</string>
+</resources>
